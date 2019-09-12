@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-My text
+Na de ki volt Heltai Gáspár ?
 Use the left arrow to go back!
